@@ -1,5 +1,5 @@
 # week1-EsinnOrc
-week1-EsinnOrc created by GitHub Classroom
+
 ## 1. OOP nedir? Ne amaçlı kullanılır?
 Nesne yönelimli programlama, nesneler etrafında tasarlanan bir bilgisayar programlama dili modeldir. Nesne benzersiz niteliklere ve davranışa sahip olan veri olarak tanımlanabilir. OOP, kodun tekrardan kullanılabilir ve verimli kılar. Büyük ve karmaşık projelerde rahatlıkla güncelleme veya değişiklik yapabilme imkânı sağlar. 
 
